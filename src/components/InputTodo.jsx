@@ -10,7 +10,7 @@ export const InputTodo = (props) => {
       />
       <div className="btn_wrap">
         <button disabled={disabled} onClick={onClick} className="btn --add">
-          追加
+          TODOを追加
         </button>
       </div>
     </div>
